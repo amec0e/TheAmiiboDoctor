@@ -1,12 +1,13 @@
 # TheAmiiboDoctor
-Python script for fixing common errors with Amiibo NFC and BIN files. 
+Python script for fixing common errors with Amiibo NFC and BIN files.
 
 #### NOTE: 
-- This fixes CT in SN3, UID Mismatch, BCC0, BCC1, DLB, CFG0, CFG1, PWD and PACK issues
+- This fixes CT in SN3, UID Mismatch, BCC0, BCC1, DLB, CFG0, CFG1, PWD and PACK issues.
 - This does not require any keys to fix these issues. 
 - This script backs up any files it will modify before modifying. 
 - This script recursively searches for nfc and bin files.
 - Can also convert V2 and V3 Flipper NFC files to V4. (Which is what all the testing was done around)
+- No Jabs Required, just a few pokes.
 
 **Usage:**
 
