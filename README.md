@@ -8,7 +8,8 @@ Python script for fixing common errors with Amiibo NFC and BIN files.
 - This script recursively searches for nfc and bin files.
 - Can also convert V2 and V3 Flipper NFC files to V4. (Which is what all the testing was done around)
 - No Jabs Required, just a few pokes.
-- **WORKS ONLY FOR NTAG215, NOT FOR THE NTAG I2C Plus 2K **
+
+**WORKS ONLY FOR NTAG215, NOT FOR THE NTAG I2C Plus 2K**
 
 **Usage:**
 
